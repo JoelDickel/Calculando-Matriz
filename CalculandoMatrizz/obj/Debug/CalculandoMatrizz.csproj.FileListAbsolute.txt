@@ -1,0 +1,7 @@
+C:\Users\joelz\source\repos\CalculandoMatrizz\CalculandoMatrizz\bin\Debug\CalculandoMatrizz.exe.config
+C:\Users\joelz\source\repos\CalculandoMatrizz\CalculandoMatrizz\bin\Debug\CalculandoMatrizz.exe
+C:\Users\joelz\source\repos\CalculandoMatrizz\CalculandoMatrizz\bin\Debug\CalculandoMatrizz.pdb
+C:\Users\joelz\source\repos\CalculandoMatrizz\CalculandoMatrizz\obj\Debug\CalculandoMatrizz.csproj.AssemblyReference.cache
+C:\Users\joelz\source\repos\CalculandoMatrizz\CalculandoMatrizz\obj\Debug\CalculandoMatrizz.csproj.CoreCompileInputs.cache
+C:\Users\joelz\source\repos\CalculandoMatrizz\CalculandoMatrizz\obj\Debug\CalculandoMatrizz.exe
+C:\Users\joelz\source\repos\CalculandoMatrizz\CalculandoMatrizz\obj\Debug\CalculandoMatrizz.pdb
